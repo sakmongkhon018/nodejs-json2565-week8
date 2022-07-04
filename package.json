@@ -1,0 +1,21 @@
+{
+  "name": "week8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakmongkhon018/nodejs-json2565-week8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sakmongkhon018/nodejs-json2565-week8/issues"
+  },
+  "homepage": "https://github.com/sakmongkhon018/nodejs-json2565-week8#readme"
+}
